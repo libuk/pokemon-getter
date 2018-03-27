@@ -1,7 +1,7 @@
 #! usr/bin/env python
 # Pokemon GETTER / Built by @libuk
 
-# THIS IS DEVELOP BRANCH
+# This is the piece of work I spent 3 days on
 
 import urllib2
 import json
