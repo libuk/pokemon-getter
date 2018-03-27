@@ -1,8 +1,6 @@
 #! usr/bin/env python
 # Pokemon GETTER / Built by @libuk
 
-# This is the piece of work I spent 3 days on
-
 import urllib2
 import json
 
